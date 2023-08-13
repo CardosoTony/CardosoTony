@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://github.com/CardosoTony/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&ring_color=FF00CC&text_bold=true&title_color=FF00CC&icon_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20" />
+    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&ring_color=FF00CC&text_bold=true&title_color=FF00CC&icon_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20" />
   </a>
   
   <a href="https://github.com/CardosoTony/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CardosoTony&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&title_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
+    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CardosoTony&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&title_color=FF00CC&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
   </a>
   <br><br>
 </h1>
