@@ -22,14 +22,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">
     🌱 I’m currently learning
-  <br><br>
-    <a href="https://rubyonrails.org">
-      <img src="https://skillicons.dev/icons?i=rails" />
-    </a>
-    <a href="https://www.ruby-lang.org/pt/">
-      <img src="https://skillicons.dev/icons?i=ruby" />
-    </a>
-  </h3>
+    <br><br>
+    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+</h3>
 
 ##
 
