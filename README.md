@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://github.com/CardosoTony/github-readme-stats">
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
   </a>  
   <a href="https://github.com/CardosoTony/convoychat">
     <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CardosoTony&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
   </a>
-  <br>
+  <br><br>
   <a>
     <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CardosoTony&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" />
   </a>
