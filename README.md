@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🔗 Connect with me 🫱🏻‍🫲🏻</h3>
 <p align="center">
-  <a href="https://instagram.com/risecode" target="blank">
+  <a href="https://instagram.com/tony_alc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risecode-dev" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/tonycardoso" target="blank">
@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+##
+
 <h1 align="center">
   <a href="https://github.com/CardosoTony/github-readme-stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
@@ -64,7 +66,7 @@ Here are some ideas to get you started:
   <a>
     <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CardosoTony&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" />
   </a>
-  <br><br>
+  <br>
 </h1>
 
 <div>
@@ -88,7 +90,7 @@ Here are some ideas to get you started:
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="47"/>
     </a>
-    <br><br>
+    <br>
   </h2>
   
   <h2 align="center">🛠️ Framework
@@ -96,18 +98,18 @@ Here are some ideas to get you started:
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50"/>
     </a>
-    <br><br>
+    <br>
   </h2>
   
   <h2 align="center">🗃️ Database 🗄️
   <br><br>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" align="top"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="70"/>
     </a>
-    <br><br>
+    <br>
   </h2>
 
   <h2 align="center">🔀 Version Control
@@ -118,6 +120,6 @@ Here are some ideas to get you started:
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48"/>
     </a>
-    <br><br>
+    <br>
   </h2>
 </div>
