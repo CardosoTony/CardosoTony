@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
   </a>  
   <a href="https://github.com/CardosoTony/convoychat">
-    <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CardosoTony&layout=compact&theme=midnight-purple&langs_count=7&card_width=320&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false" />
+    <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CardosoTony&layout=compact&theme=midnight-purple&langs_count=8&card_width=360&text_color=00FF00&hide_border=true&border_radius=20&hide_progress=false&hide=batchfile,dockerfile,less" />
   </a>
   <br><br>
   <a>
