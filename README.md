@@ -26,14 +26,17 @@ Here are some ideas to get you started:
 <h3 align="center">
     🌱 I’m currently learning 🥰
     <br><br>
-    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+<!--    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" align="center"/>
     </a>
     <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" align="center"/>
-    </a>
+    </a>-->
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" align="center"/>
+    </a>
+    <a href="https://go.dev" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" align="center"/>
     </a>
 </h3>
 
@@ -97,7 +100,10 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="47" align="center"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" align="center"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="60" align="center"/>
+    </a>
+    <a href="https://go.dev" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" align="center"/>
     </a>
     <br>
   </h2>
