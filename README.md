@@ -33,7 +33,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" align="center"/>
     </a>-->
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" align="center"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" align="center"/>
     </a>
     <a href="https://go.dev" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" align="center"/>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="47" align="center"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="60" align="center"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="50" align="center"/>
     </a>
     <a href="https://go.dev" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" align="center"/>
