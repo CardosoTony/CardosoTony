@@ -6,35 +6,13 @@
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=FF00CC&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋🏻;I'm+Tony+😊" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">
-    🌱 I’m currently learning 🥰
-    <br><br>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" height="60" align="center"/>
-    </a>
-    <a href="https://go.dev" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="50" align="center"/>
-    </a>
-</h3>
+<div align="center">
+<br>
 
-##
-
-<h3 align="center">🔗 Connect with me 🫱🏻‍🫲🏻</h3>
-<p align="center">
-  <a href="https://instagram.com/tony_alc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risecode-dev" height="30" width="40" />
-  </a><!--
-  --><a href="https://linkedin.com/in/tonycardoso" target="blank">
-    <img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risecode-dev" height="30" width="40" />
-  </a><!--
-  --><a href="https://stackoverflow.com/users/22393696/tony-cardoso" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="risecode-dev" height="30" width="40" />
-  </a>
-  <br><br>
-  <a href="mailto:eng.tonyalc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=F00" />
-  </a>
-</p>
+| Currently Learning | Connect with me |
+|----------|---------|
+| <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" height="60" align="center"/></a> <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="50" align="center"/></a> | <a href="https://instagram.com/tony_alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risecode-dev" height="30" width="40" /></a> <a href="https://linkedin.com/in/tonycardoso" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risecode-dev" height="30" /></a> <a href="https://stackoverflow.com/users/22393696/tony-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="risecode-dev" height="30" width="35" /></a> <a href="mailto:eng.tonyalc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=F00" height="30" align="center" /></a> |
+</div>
 
 ##
 
@@ -54,7 +32,7 @@
 
 <div align="center">
 <br>
-  
+
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="50"/> |
