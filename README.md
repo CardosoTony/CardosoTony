@@ -2,22 +2,20 @@
   <img src="https://komarev.com/ghpvc/?username=CardosoTony&label=Profile%20views&color=FF0077&style=flat" alt="risecode-dev" />
 </p>
 
-<h1 align="center">
+<p align="center">
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=FF00CC&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋🏻;I'm+Tony+😊" alt="Typing SVG" /></a>
-</h1>
+</p>
 
 <div align="center">
-<br>
 
 | Currently Learning | Connect with me |
 |----------|---------|
 | <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" height="60" align="center"/></a> <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="50" align="center"/></a> | <a href="https://instagram.com/tony_alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risecode-dev" height="30" width="40" /></a> <a href="https://linkedin.com/in/tonycardoso" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risecode-dev" height="30" /></a> <a href="https://stackoverflow.com/users/22393696/tony-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="risecode-dev" height="30" width="35" /></a> <a href="mailto:eng.tonyalc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=F00" height="30" align="center" /></a> |
 </div>
+<br>
 
-##
-
-<h1 align="center">
-  <a href="https://github.com/CardosoTony/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/CardosoTony/github-readme-stats" style="text-decoration: none;">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=CardosoTony&show_icons=true&rank_icon=github&theme=midnight-purple&text_bold=true&text_color=00FF00&hide_border=true&border_radius=20" />
   </a>  
   <a href="https://github.com/CardosoTony/convoychat">
@@ -28,7 +26,7 @@
     <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CardosoTony&theme=midnight-purple&hide_border=true&border_radius=20&text_color=00FF00" />
   </a>
   <br>
-</h1>
+</p>
 
 <div align="center">
 <br>
