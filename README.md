@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-**CardosoTony/CardosoTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=CardosoTony&label=Profile%20views&color=FF0077&style=flat" alt="risecode-dev" />
 </p>
@@ -26,17 +9,11 @@ Here are some ideas to get you started:
 <h3 align="center">
     🌱 I’m currently learning 🥰
     <br><br>
-<!--    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" align="center"/>
-    </a>
-    <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" align="center"/>
-    </a>-->
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" align="center"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" height="60" align="center"/>
     </a>
     <a href="https://go.dev" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" align="center"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="50" align="center"/>
     </a>
 </h3>
 
@@ -46,11 +23,11 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://instagram.com/tony_alc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risecode-dev" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/tonycardoso" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risecode-dev" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22393696/tony-cardoso" target="blank">
+  </a><!--
+  --><a href="https://linkedin.com/in/tonycardoso" target="blank">
+    <img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risecode-dev" height="30" width="40" />
+  </a><!--
+  --><a href="https://stackoverflow.com/users/22393696/tony-cardoso" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="risecode-dev" height="30" width="40" />
   </a>
   <br><br>
@@ -75,66 +52,14 @@ Here are some ideas to get you started:
   <br>
 </h1>
 
-<div>
-  <h2 align="center">👨🏻‍💻 Languages 🫶🏻
-    <br><br>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" align="center"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" align="center"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="47" align="center"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="47" align="center"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" align="center"/>
-    </a>
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="47" align="center"/>
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="47" align="center"/>
-    </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="50" align="center"/>
-    </a>
-    <a href="https://go.dev" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" align="center"/>
-    </a>
-    <br>
-  </h2>
+<div align="center">
+<br>
   
-  <h2 align="center">🛠️ Framework
-  <br><br>
-    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50"/>
-    </a>
-    <br>
-  </h2>
-  
-  <h2 align="center">🗃️ Database 🗄️
-  <br><br>
-    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" align="top"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="70" align="center"/>
-    </a>
-    <br>
-  </h2>
-
-  <h2 align="center">🔀 Version Control
-  <br><br>
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48"/>
-    </a>
-    <br>
-  </h2>
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="50"/> |
+| **Framework** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" height="50"/> |
+| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" height="60"/> |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=github" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/> |
+| **Game Development and Engines** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" height="48"/> |
 </div>
